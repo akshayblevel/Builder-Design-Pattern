@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Solution4.MyPizzaBuilder">
+    <Position X="3" Y="4" Width="1.5" />
+    <InheritanceLine Type="Solution4.PizzaBuilder" ManuallyRouted="true" FixedToPoint="true">
+      <Path>
+        <Point X="5" Y="3.267" />
+        <Point X="5" Y="3.625" />
+        <Point X="3.688" Y="3.625" />
+        <Point X="3.688" Y="4" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAQAAAAAAAgABAAAAAAAEAAAA=</HashCode>
+      <FileName>MyPizzaBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Solution4.Pizza" Collapsed="true">
+    <Position X="8" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAIAAAAAIAAAAAAAAQgAAAIAAAAA=</HashCode>
+      <FileName>Pizza.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Solution4.PizzaBuilder">
+    <Position X="4.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAQAAAAAAAgABAAAABAAEAAQA=</HashCode>
+      <FileName>PizzaBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Solution4.TomatoPizzaBuilder">
+    <Position X="5.5" Y="4" Width="1.5" />
+    <InheritanceLine Type="Solution4.PizzaBuilder" ManuallyRouted="true" FixedToPoint="true">
+      <Path>
+        <Point X="5" Y="3.267" />
+        <Point X="5" Y="3.625" />
+        <Point X="6.188" Y="3.625" />
+        <Point X="6.188" Y="4" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAQAAAAAAAgABAAAAAAAEAAAA=</HashCode>
+      <FileName>TomatoPizzaBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Solution4.PizzaMaker">
+    <Position X="1" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>PizzaMaker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Solution4.DoughType" Collapsed="true">
+    <Position X="9" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAACAAA=</HashCode>
+      <FileName>Pizza.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Solution4.CheeseType" Collapsed="true">
+    <Position X="9" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Pizza.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Solution4.Size" Collapsed="true">
+    <Position X="9" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Pizza.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

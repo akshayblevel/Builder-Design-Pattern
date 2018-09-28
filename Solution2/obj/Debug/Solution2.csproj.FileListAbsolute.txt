@@ -1,0 +1,12 @@
+F:\Mansi\RND\DP\BuilderPattern\Solution2\bin\Debug\Solution2.exe.config
+F:\Mansi\RND\DP\BuilderPattern\Solution2\bin\Debug\Solution2.exe
+F:\Mansi\RND\DP\BuilderPattern\Solution2\bin\Debug\Solution2.pdb
+F:\Mansi\RND\DP\BuilderPattern\Solution2\obj\Debug\Solution2.csprojResolveAssemblyReference.cache
+F:\Mansi\RND\DP\BuilderPattern\Solution2\obj\Debug\Solution2.exe
+F:\Mansi\RND\DP\BuilderPattern\Solution2\obj\Debug\Solution2.pdb
+F:\AKKI_DEV\RND\DP\BuilderPattern\Solution2\bin\Debug\Solution2.exe.config
+F:\AKKI_DEV\RND\DP\BuilderPattern\Solution2\obj\Debug\Solution2.exe
+F:\AKKI_DEV\RND\DP\BuilderPattern\Solution2\obj\Debug\Solution2.pdb
+F:\AKKI_DEV\RND\DP\BuilderPattern\Solution2\bin\Debug\Solution2.exe
+F:\AKKI_DEV\RND\DP\BuilderPattern\Solution2\bin\Debug\Solution2.pdb
+F:\AKKI_DEV\RND\DP\BuilderPattern\Solution2\obj\Debug\Solution2.csprojResolveAssemblyReference.cache
